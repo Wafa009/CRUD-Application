@@ -1,0 +1,10 @@
+C:\Users\Naziyat Wafa\Desktop\task\wcrud\wcrud\bin\Debug\wcrud.exe.config
+C:\Users\Naziyat Wafa\Desktop\task\wcrud\wcrud\bin\Debug\wcrud.exe
+C:\Users\Naziyat Wafa\Desktop\task\wcrud\wcrud\bin\Debug\wcrud.pdb
+C:\Users\Naziyat Wafa\Desktop\task\wcrud\wcrud\obj\Debug\wcrud.csproj.AssemblyReference.cache
+C:\Users\Naziyat Wafa\Desktop\task\wcrud\wcrud\obj\Debug\wcrud.Form1.resources
+C:\Users\Naziyat Wafa\Desktop\task\wcrud\wcrud\obj\Debug\wcrud.Properties.Resources.resources
+C:\Users\Naziyat Wafa\Desktop\task\wcrud\wcrud\obj\Debug\wcrud.csproj.GenerateResource.cache
+C:\Users\Naziyat Wafa\Desktop\task\wcrud\wcrud\obj\Debug\wcrud.csproj.CoreCompileInputs.cache
+C:\Users\Naziyat Wafa\Desktop\task\wcrud\wcrud\obj\Debug\wcrud.exe
+C:\Users\Naziyat Wafa\Desktop\task\wcrud\wcrud\obj\Debug\wcrud.pdb
